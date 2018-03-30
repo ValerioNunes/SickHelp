@@ -1,0 +1,42 @@
+page-login {
+    .indextitle_css {
+        font-family: "Verdana" !important;
+        font-size: 20vh !important;
+        font-weight: bold !important;
+        margin: 0 !important;
+        background: linear-gradient(#116bc4, white) !important;
+        }
+
+        .feed_post_photo {
+            height: 50%;
+            width: 40%;
+            }
+     
+        .card-background-page {
+            background-color: #fff !important; 
+            ion-card {
+              position: relative;
+              text-align: center;
+              background-color: rgb(255,128,0) !important; 
+            } 
+          
+            .card-title {
+              position: absolute;
+              top: 36%;
+              font-size: 2.0em;
+              width: 100%;
+              font-weight: bold;
+              color:  #fff !important; 
+              text-shadow: #000 4px 3px 2px;
+            }
+          
+            .card-subtitle {
+              font-size: 1.0em;
+              position: absolute;
+              top: 52%;
+              width: 100%;
+              color: #fff;
+            }
+          
+          }
+}
